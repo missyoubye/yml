@@ -65,7 +65,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png",上海纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教
+#EXTINF:-1 tvg-name="北京科教" tvg-logo="https://live.fanmingming.com/tv/北京科教.png",北京纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -301,8 +301,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频3" tvg-logo="https://live.fanmingming.com/tv/咪咕视频3.png",咪咕视频3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频4.http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/咪咕视频4.http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8.png",咪咕视频4.http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-undefined
+#EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频4.png",咪咕视频4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频5" tvg-logo="https://live.fanmingming.com/tv/咪咕视频5.png",咪咕视频5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-name="百视TV2" tvg-logo="https://live.fanmingming.com/tv/百视TV2.png",百视TV2
