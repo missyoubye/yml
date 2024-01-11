@@ -241,7 +241,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://61.52.131.156:8888/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="北京科教" tvg-logo="https://live.fanmingming.com/tv/北京科教.png",北京科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://39.134.65.208/PLTV/88888888/224/3221225514/index.m3u8
@@ -389,7 +389,7 @@ http://39.134.65.166/PLTV/88888888/224/3221225668/index.m3u8
 http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png",上海纪实
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -485,11 +485,11 @@ http://39.134.66.66/PLTV/88888888/224/3221225570/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png",湖南金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
 http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
-#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png",江苏优漫卡通
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
 http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png",北京卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
 http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
-#EXTINF:-1 tvg-name="上海哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/上海哈哈炫动.png",上海哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png",哈哈炫动
 http://39.134.66.66/PLTV/88888888/224/3221225534/index.m3u8
