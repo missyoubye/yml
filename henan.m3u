@@ -218,7 +218,7 @@ http://60.188.45.178:8888/newlive/live/hls/16/live.m3u8
 http://60.188.45.178:8888/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://60.188.45.178:8888/newlive/live/hls/19/live.m3u8
-#EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://live.fanmingming.com/tv/上海卫视.png",上海卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 http://60.188.45.178:8888/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 http://60.188.45.178:8888/newlive/live/hls/21/live.m3u8
