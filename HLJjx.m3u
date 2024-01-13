@@ -69,7 +69,7 @@ http://39.134.66.4/PLTV/88888888/224/3221226127/index.m3u8
 http://39.134.66.46/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name="cctv17" tvg-logo="https://live.fanmingming.com/tv/cctv17.png",cctv17
 http://39.134.66.4/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 tvg-name="Ccctv5+" tvg-logo="https://live.fanmingming.com/tv/Ccctv5+.png",Ccctv5+
+#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://live.fanmingming.com/tv/cctv5+.png",cctv5+
 http://39.134.66.4/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png",纪实人文
 http://39.134.66.4/PLTV/88888888/224/3221225673/index.m3u8
@@ -241,7 +241,7 @@ http://39.134.66.4/PLTV/88888888/224/3221225527/index.m3u8
 http://39.135.135.46/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
 http://39.134.66.4/PLTV/88888888/224/3221225529/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="https://live.fanmingming.com/tv/北京卡酷.png",北京卡酷
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
 http://39.134.66.4/PLTV/88888888/224/3221225562/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
 http://39.134.66.4/PLTV/88888888/224/3221225561/index.m3u8
