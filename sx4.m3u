@@ -113,13 +113,3 @@ http://39.135.189.196/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226058/ind
 http://39.135.189.198/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225792/index.m3u8?
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV-2
 http://39.135.189.199/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225813/index.m3u8?
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png",咪咕视频
-http://39.135.189.211/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225915/index.m3u8?
-#EXTINF:-1 tvg-name="NewTV精品记录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品记录.png",NewTV精品记录
-http://39.135.189.203/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225831/index.m3u8?
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NEWTV农业致富.png",NewTV农业致富
-http://39.135.189.211/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226037/index.m3u8?
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
-http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
-http://39.135.189.192/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225733/index.m3u8?
