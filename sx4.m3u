@@ -89,10 +89,6 @@ http://39.135.189.199/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225807/ind
 http://39.135.189.192/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225801/index.m3u8?
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
 http://39.135.189.195/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225980/index.m3u8?
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png",厦门卫视
-http://39.135.189.203/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225754/index.m3u8?
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
-http://39.135.189.199/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225760/index.m3u8?
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
 http://39.135.189.203/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225786/index.m3u8?
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视
@@ -107,9 +103,7 @@ http://39.135.189.193/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226013/ind
 http://39.135.189.211/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225751/index.m3u8?
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://39.135.189.202/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225816/index.m3u8?
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png",农林卫视
-http://39.135.189.196/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226058/index.m3u8?
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV-1
-http://39.135.189.198/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225792/index.m3u8?
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV-2
-http://39.135.189.199/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225813/index.m3u8?
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png",厦门卫视
+http://39.135.189.203/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225754/index.m3u8?
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
+http://39.135.189.199/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225760/index.m3u8?
