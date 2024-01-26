@@ -37,8 +37,6 @@ http://39.135.189.202/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225706/ind
 http://39.135.189.215/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226199/index.m3u8?
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 http://39.135.189.232/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226226/index.m3u8?
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
-http://39.135.189.233/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226223/index.m3u8?
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 http://39.135.189.231/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225780/index.m3u8?
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
@@ -85,6 +83,8 @@ http://39.135.189.195/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225980/ind
 http://39.135.189.203/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225786/index.m3u8?
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://39.135.189.202/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225816/index.m3u8?
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+http://39.135.189.233/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226223/index.m3u8?
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
 http://39.135.189.194/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225783/index.m3u8?
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
