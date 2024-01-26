@@ -69,7 +69,7 @@ http://39.134.66.4/PLTV/88888888/224/3221226127/index.m3u8
 http://39.134.66.46/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://39.134.66.4/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 tvg-name="CCCTV5" tvg-logo="https://live.fanmingming.com/tv/CCCTV5.png",CCCTV5+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5+
 http://39.134.66.4/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png",纪实人文
 http://39.134.66.4/PLTV/88888888/224/3221225673/index.m3u8
