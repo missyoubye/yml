@@ -109,9 +109,9 @@ http://171.120.54.199:8082/rtp/226.0.2.172:9288
 http://171.120.54.199:8082/rtp/226.0.2.193:9456
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实
 http://171.120.54.199:8082/rtp/226.0.2.194:9464
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png",CCTV第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
 http://171.120.54.199:8082/rtp/226.0.2.221:9680
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",怀旧剧场
 http://171.120.54.199:8082/rtp/226.0.2.224:9704
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png",CCTV风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",风云剧场
 http://171.120.54.199:8082/rtp/226.0.2.227:9728
