@@ -99,39 +99,13 @@ http://171.120.54.199:8082/rtp/226.0.2.240:9820
 http://171.120.54.199:8082/rtp/226.0.2.181:9360
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
 http://171.120.54.199:8082/rtp/226.0.2.76:8520
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
-http://171.120.54.199:8082/rtp/226.0.2.77:8528
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
 http://171.120.54.199:8082/rtp/226.0.2.81:8560
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png",法治天地
-http://171.120.54.199:8082/rtp/226.0.2.83:8576
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png",生活时尚
-http://171.120.54.199:8082/rtp/226.0.2.84:8584
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png",山西黄河
-http://171.120.54.199:8082/rtp/226.0.2.235:9792
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png",山西经济与科技
-http://171.120.54.199:8082/rtp/226.0.2.236:9800
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png",山西影视
-http://171.120.54.199:8082/rtp/226.0.2.237:9808
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png",山西社会与法治
-http://171.120.54.199:8082/rtp/226.0.2.238:9816
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西公共.png",山西文体生活
-http://171.120.54.199:8082/rtp/226.0.2.16:8040
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
-http://171.120.54.199:8082/rtp/226.0.2.11:8000
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png",山西黄河
-http://171.120.54.199:8082/rtp/226.0.2.12:8008
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png",山西经济与科技
-http://171.120.54.199:8082/rtp/226.0.2.13:8016
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png",山西影视
-http://171.120.54.199:8082/rtp/226.0.2.14:8024
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png",山西社会与法治
-http://171.120.54.199:8082/rtp/226.0.2.15:8032
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png",动漫秀场
 http://171.120.54.199:8082/rtp/226.0.2.183:9376
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
 http://171.120.54.199:8082/rtp/226.0.2.172:9288
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png",上海纪实
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png",纪实人文
 http://171.120.54.199:8082/rtp/226.0.2.193:9456
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实
 http://171.120.54.199:8082/rtp/226.0.2.194:9464
