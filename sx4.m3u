@@ -67,6 +67,14 @@ http://39.135.189.201/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225977/ind
 http://39.135.189.220/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225739/index.m3u8?
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
 http://live.cooltv.top/tv/tide.php?id=sxiws2
+#EXTINF:-1 tvg-name="山西卫视HD" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+http://171.117.32.116:9999/rtp/226.0.2.152:9128
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
+http://171.117.32.116:9999/rtp/226.0.2.93:8004
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
+http://171.117.32.116:9999/rtp/226.0.2.94:8012
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院
+http://171.117.32.116:9999/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
 http://39.135.189.201/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225709/index.m3u8?
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
