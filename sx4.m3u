@@ -9,6 +9,8 @@ http://39.135.189.209/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225885/ind
 http://39.135.189.233/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225958/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
 http://39.135.189.215/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226088/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
+http://39.135.189.215/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226199/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
 http://39.135.189.205/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225826/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
@@ -32,9 +34,7 @@ http://39.135.189.201/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225971/ind
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
 http://39.135.189.239/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225949/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
-http://39.135.189.202/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225706/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
-http://39.135.189.215/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226199/index.m3u8?
+http://39.135.189.202/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
