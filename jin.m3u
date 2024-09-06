@@ -99,33 +99,33 @@ http://[2409:8087:c50:21::2:18]:6610/040000001000/351000010000000600000000000000
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000067/index.m3u8?
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000072/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png",CCTV第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",CCTV第一剧场
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000022/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",CCTV怀旧剧场
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000029/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png",CCTV风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png",CCTV风云剧场
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000023/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png",CCTV风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",CCTV风云足球
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000027/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png",CCTV风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",CCTV风云音乐
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000024/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png",CCTV世界地理
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",CCTV世界地理
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000161/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png",CCTV兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png",CCTV兵器科技
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000026/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png",CCTV央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",CCTV央视台球
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000212/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女性时尚.png",CCTV女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png",CCTV女性时尚
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000040/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png",CCTV电视指南
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000032/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV央视文化精品.png",CCTV央视文化精品
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png",CCTV央视文化精品
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000030/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫网球.png",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png",CCTV高尔夫网球
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000162/index.m3u8?
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png",纪实人文
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000079/index.m3u8?
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png",纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",纪实科教
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000015/index.m3u8?
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
 http://[2409:8087:c50:21::2:18]:6610/040000001000/35100001000000060000000000000110/index.m3u8?
