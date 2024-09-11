@@ -253,7 +253,7 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8$1.6M_57
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8$1.6M_576
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png",纪实人文
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$4.0M_1080
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png",纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3u8$4.0M_1080
 #EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png",NEWTV超级综艺
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8$4.0M_1080
@@ -309,15 +309,15 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225719/index.m3u8$4.0M_10
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$4.0M_1080
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$4.0M_1080
-#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png",哒啵赛事
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv哒啵赛事.png",哒啵赛事
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225675/index.m3u8$4.0M_1080
-#EXTINF:-1 tvg-name="全民热练" tvg-logo="https://live.fanmingming.com/tv/全民热练.png",全民热练
+#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://live.fanmingming.com/tv/晴彩青少.png",晴彩青少
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8$8.1M_1080
-#EXTINF:-1 tvg-name="精彩足球" tvg-logo="https://live.fanmingming.com/tv/精彩足球.png",精彩足球
+#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://live.fanmingming.com/tv/晴彩篮球.png",晴彩篮球
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8$8.1M_1080
-#EXTINF:-1 tvg-name="综合体育" tvg-logo="https://live.fanmingming.com/tv/综合体育.png",综合体育
+#EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://live.fanmingming.com/tv/晴彩竞技.png",晴彩竞技
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8$8.1M_1080
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png",咪咕视频
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png",咪咕体育
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8$8.0M_1080
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png",咪咕视频
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8$8.0M_1080
