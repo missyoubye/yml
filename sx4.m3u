@@ -108,3 +108,9 @@ http://39.135.189.203/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225754/ind
 http://39.135.189.193/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221226013/index.m3u8?
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 http://39.135.189.199/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225760/index.m3u8?
+#EXTINF:-1 tvg-name="大同新闻" tvg-logo="https://live.fanmingming.com/tv/大同新闻.png",大同新闻
+https://live.dtradio.com.cn/xwzh/playlist.m3u8?_upt=9c7b31b71726134030
+#EXTINF:-1 tvg-name="大同公共" tvg-logo="https://live.fanmingming.com/tv/大同公共.png",大同公共
+https://live.dtradio.com.cn/ggpd/playlist.m3u8?_upt=357061fb1726134114
+#EXTINF:-1 tvg-name="大同煤都生活" tvg-logo="https://live.fanmingming.com/tv/大同煤都生活.png",大同煤都生活
+https://live.dtradio.com.cn/mdsh/playlist.m3u8?_upt=854613411726134163
