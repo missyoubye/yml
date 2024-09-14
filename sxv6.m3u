@@ -110,3 +110,7 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin48.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰卫视香港台
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk48.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
+http://mtw.so/5NPX0U
