@@ -110,11 +110,8 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin48.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰卫视香港台
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk48.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
-http://120.76.248.139/live/bfgd/4200000635.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
-http://120.76.248.139/live/bfgd/4200000636.m3u8
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.com/tv/美亚电影.png",美亚电影
+http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQccP-581hI5zQbLAvDbmURg8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
 http://mobilelive-ds.ysp.CCTV.cn/ysp/2013693901.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
